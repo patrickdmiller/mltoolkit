@@ -1,0 +1,5 @@
+torchtext
+torch==2.5.1
+numpy
+jupyter
+notebook
